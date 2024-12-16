@@ -10,6 +10,6 @@ Normalização de Cores: Tratamento das imagens para padronização das cores e 
 Resultados Georreferenciados: Possibilidade de integração com logs de coordenadas geográficas para geração de mapas.
 
 Tecnologias Utilizadas:
-Python
-OpenCV
+Python,
+OpenCV e
 NumPy
