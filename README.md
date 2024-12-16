@@ -9,8 +9,7 @@ Processamento das Imagens: Aplicação de técnicas de segmentação e filtragem
 Normalização de Cores: Tratamento das imagens para padronização das cores e melhoria na precisão do mapeamento.
 Resultados Georreferenciados: Possibilidade de integração com logs de coordenadas geográficas para geração de mapas.
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 Python
 OpenCV
 NumPy
-Bibliotecas adicionais para manipulação e análise de imagens
